@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A \"Pattern Library\" of React components and CSS styles",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "npm test"
   },
