@@ -1,0 +1,19 @@
+{
+  "name": "fabric-store",
+  "version": "1.0.0",
+  "description": "A \"Pattern Library\" of React components and CSS styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missalyss/fabric-store.git"
+  },
+  "author": "missalyss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missalyss/fabric-store/issues"
+  },
+  "homepage": "https://github.com/missalyss/fabric-store#readme"
+}

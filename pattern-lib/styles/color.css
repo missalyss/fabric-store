@@ -1,0 +1,129 @@
+/* Root color palette */
+:root {
+  --black: #000000;
+  --black-soft: #151515;
+  --white: #ffffff;
+  --white-soft: #f5f5f5;
+  --red: #ff1700;
+  --red-dark: #932a24;
+  --orange: #ff8e00;
+  --yellow: #f7ec09;
+  --green: #237E02;
+  --blue: #014CC6;
+  --blue-light: #84B0F5;
+  --blue-dark: #475270;
+  --purple: #a149fa;
+  --pink: #ff008e;
+  --pink-light: #FCB6DB;
+}
+
+/* BLACK */
+.text-black {
+  color: var(--black);
+}
+.bg-black {
+  background-color: var(--black);
+}
+.text-black-soft {
+  color: var(--black-soft);
+}
+.bg-black-soft {
+  background-color: var(--black-soft);
+}
+
+/* WHITE */
+.text-white {
+  color: var(--white);
+}
+.bg-white {
+  background-color: var(--white);
+}
+.text-white-soft {
+  color: var(--white-soft);
+}
+.bg-white-soft {
+  background-color: var(--white-soft);
+}
+
+/* RED */
+.text-red {
+  color: var(--red);
+}
+.bg-red {
+  background-color: var(--red);
+}
+
+.text-red-dark {
+  color: var(--red-dark);
+}
+.bg-red-dark {
+  background-color: var(--red-dark);
+}
+
+/* ORANGE */
+.text-orange {
+  color: var(--orange);
+}
+.bg-orange {
+  background-color: var(--orange);
+}
+
+/* YELLOW */
+.text-yellow {
+  color: var(--yellow);
+}
+.bg-yellow {
+  background-color: var(--yellow);
+}
+
+/* GREEN */
+.text-green {
+  color: var(--green);
+}
+.bg-green {
+  background-color: var(--green);
+}
+
+/* BLUE */
+.text-blue {
+  color: var(--blue);
+}
+.bg-blue {
+  background-color: var(--blue);
+}
+
+.text-blue-dark {
+  color: var(--blue-dark);
+}
+.bg-blue-dark {
+  background-color: var(--blue-dark);
+}
+
+.text-blue-light {
+  color: var(--blue-light);
+}
+.bg-blue-light {
+  background-color: var(--blue-light);
+}
+
+/* PURPLE */
+.text-purple {
+  color: var(--purple);
+}
+.bg-purple {
+  background-color: var(--purple);
+}
+
+/* PINK */
+.text-pink {
+  color: var(--pink);
+}
+.bg-pink {
+  background-color: var(--pink);
+}
+.text-pink-light {
+  color: var(--pink-light);
+}
+.bg-pink-light {
+  background-color: var(--pink-light);
+}

@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: nordica, Geneva, Tahoma, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--black-soft);
+}
+
+@font-face {
+  font-family: "nordica";
+  src: url(../assets/fonts/NordicaClassicLtExt.otf) format("opentype");
+}
+
+button,
+a {
+  border: none;
+  background-color: inherit;
+  font-size: inherit;
+  font-family: inherit;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+p {
+  margin: 0;
+  color: var(--white)
+}
+
+h1 {
+  margin: 0;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
