@@ -5,6 +5,6 @@
 
 // console.log('hello css : ', css);
 
-export const printMsg = function() {
-  console.log("This is a message from the demo package");
+export const testFriend = function() {
+  console.log("This is a message for my tessssst friennnnnnd.");
 }
