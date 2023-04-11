@@ -1,4 +1,4 @@
-import ExternalLinkIcon from "../assets/icons/external-link-icon";
+// import ExternalLinkIcon from "../assets/icons/external-link-icon";
 
 const ExternalLink = ({ className, href, text, iconColor, ...props }) => {
   return (
