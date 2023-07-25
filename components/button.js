@@ -1,5 +1,5 @@
 
-class GreetingComponent extends HTMLElement {
+class Button extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: 'open' });
@@ -10,7 +10,7 @@ class GreetingComponent extends HTMLElement {
   }
 
   connectedCallback() {
-    const href = this.getAttribute('href') || 'https://www.starbucks.com';
+    const href = this.getAttribute('href') || 'https://github.com/missalyss/fabric-store';
     this.myButton.innerHTML = href;
     this.myButton.name = 'alyssa'
     console.log('m butt: ', this.myButton)
@@ -18,5 +18,5 @@ class GreetingComponent extends HTMLElement {
 }
 
 // Register the component
-customElements.define('greeting-component', GreetingComponent);
+customElements.define('sewing-button', Button);
 
