@@ -3,7 +3,7 @@ body {
   font-family: nordica, Geneva, Tahoma, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: var(--black-soft);
+  /* background-color: var(--black-soft); */
 }
 
 @font-face {
@@ -24,7 +24,7 @@ a {
 
 p {
   margin: 0;
-  color: var(--white)
+  /* color: var(--white) */
 }
 
 h1 {
