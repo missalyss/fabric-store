@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "buildStyles": "node -e 'import(\"./scripts/css-compile.js\").then( (loadedModule) => {console.log(loadedModule); return loadedModule.compileCss()} )'"
   },
   "repository": {
     "type": "git",
