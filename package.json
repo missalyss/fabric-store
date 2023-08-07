@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "files": [
-    "./dist.css"
+    "./dist.css",
+    "./assets/fonts/*"
   ],
   "scripts": {
     "test": "npm test",
