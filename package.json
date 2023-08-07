@@ -1,10 +1,12 @@
 {
   "name": "fabric-store",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A \"Pattern Library\" of React components and CSS styles",
   "main": "index.js",
   "type": "module",
-  "files": ["./dist.css"],
+  "files": [
+    "./dist.css"
+  ],
   "scripts": {
     "test": "npm test",
     "buildStyles": "node -e 'import(\"./scripts/css-compile.js\").then( (loadedModule) => {console.log(loadedModule); return loadedModule.compileCss()} )'"
