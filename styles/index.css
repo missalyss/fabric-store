@@ -8,7 +8,7 @@ body {
 
 @font-face {
   font-family: "nordica";
-  src: url(../assets/fonts/NordicaClassicLtExt.otf) format("opentype");
+  src: url(./assets/fonts/NordicaClassicLtExt.otf) format("opentype");
 }
 
 button,
