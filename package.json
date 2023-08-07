@@ -1,6 +1,6 @@
 {
   "name": "fabric-store",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "A \"Pattern Library\" of React components and CSS styles",
   "main": "index.js",
   "type": "module",
